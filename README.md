@@ -1,4 +1,5 @@
 # Jerry's Notes
 
-# This is an H1 header
-##### This is an H5 header
+## Summary
+
+This repository contains all of the notes taken by [Jerry](https://github.com/jerry1646) for the [Lighthouse Labs](https://lighthouselabs.ca/) Web Development Bootcamp.
